@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # Pseudocode:
 # 1. Ask the user to enter their name and store it in a variable called name
 # 2. Ask the user to enter their age and store it in a variable called age
@@ -24,4 +21,3 @@ street_name = input("Please enter your street name: ")
 
 # Step 5: Print a sentence containing all the details
 print(f"This is {name}. They are {age} years old and live at house number {house_number} on {street_name}.")
->>>>>>> fc56ec8 (Add project file and update README)
